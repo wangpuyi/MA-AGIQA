@@ -1,7 +1,7 @@
 # MA-AGIQA：Large Multi-modality Model Assiste AI-Generated Image Quality Assessment
 
 ## Requirements 
-Our experiments are based on two conda environment. One for [Semantic Feature Extraction](semantic-feature-extraction) and another for [Train and Test](train-and-test).
+Our experiments are based on two conda environment. One for [Semantic Feature Extraction](#semantic-feature-extraction) and another for [Train and Test](#train-and-test).
 ```shell 
 git clone https://github.com/Q-Future/Q-Align.git
 cd Q-Align
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Semantic Feature Extraction
 We use official mPLUG-Owl2 to extract semantic features. The feature extraction codes are based on [Q-Align](https://github.com/Q-Future/Q-Align), great thanks to them!
 
-First, download and transfer root to Q-Align (You should download their repository as said in [Requirements](requirements).)
+First, download and transfer root to Q-Align (You should download their repository as said in [Requirements](#requirements).)
 ```shell 
 cd Q-Align
 ```
@@ -35,7 +35,6 @@ HF_ENDPOINT=https://hf-mirror.com python "q_align/evaluate/getFeature.py"
 ## Train and Test
 Download and transfer root to MA-AGIQA. If you've download this repository, just implement the "cd" code.
 ```shell 
-git clone https://github.com/wangpuyi/MA-AGIQA.git
 cd MA-AGIQA
 ```
 Train and Test
