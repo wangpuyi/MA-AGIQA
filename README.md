@@ -1,7 +1,7 @@
 # MA-AGIQA：Large Multi-modality Model Assiste AI-Generated Image Quality Assessment
 
 ## Network Architecture
-
+![image.png](src/framework.png)
 
 ## Requirements 
 Our experiments are based on two conda environment. One for [Semantic Feature Extraction](#semantic-feature-extraction) and another for [Train and Test](#train-and-test).
@@ -45,3 +45,5 @@ Train and Test
 ```shell 
 python train.py
 ```
+## Performance
+![image.png](src/sota.png)
