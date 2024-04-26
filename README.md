@@ -1,4 +1,10 @@
 # MA-AGIQA：Large Multi-modality Model Assiste AI-Generated Image Quality Assessment
+[![Platform](https://img.shields.io/badge/Platform-linux-lightgrey?logo=linux)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-orange?logo=python)](https://www.python.org/)
+[![Pytorch](https://img.shields.io/badge/PyTorch-1.13%2B-brightgree?logo=PyTorch)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wangpuyi/MA-AGIQA)
+
+
 
 ## Network Architecture
 ![image.png](src/framework.png)
@@ -47,3 +53,13 @@ python train.py
 ```
 ## Performance
 ![image.png](src/sota.png)
+
+## TODO 
+- [ ] release the checkpoints
+- [ ] simplify codes for friendly usage
+
+## Citation
+If you find our code or model useful for your research, please cite:
+
+## Acknowledgement
+Part of our code are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [Q-Align](https://github.com/Q-Future/Q-Align). Thanks for their awesome work!
