@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-orange?logo=python)](https://www.python.org/)
 [![Pytorch](https://img.shields.io/badge/PyTorch-1.13%2B-brightgree?logo=PyTorch)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wangpuyi/MA-AGIQA)
-![Static Badge](https://img.shields.io/badge/build-paper-red?logo=arXiv&label=arXiv&link=https://arxiv.org/abs/2404.17762)
+[![arXiv](https://img.shields.io/badge/build-paper-red?logo=arXiv&label=arXiv)](https://arxiv.org/abs/2404.17762)
 
 
 This repository is the official PyTorch implementation of [MA-AGIQA:Large Multi-modality Model Assisted AI-Generated Image Quality Assessment](https://arxiv.org/abs/2404.17762).
