@@ -3,8 +3,10 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-orange?logo=python)](https://www.python.org/)
 [![Pytorch](https://img.shields.io/badge/PyTorch-1.13%2B-brightgree?logo=PyTorch)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wangpuyi/MA-AGIQA)
+![Static Badge](https://img.shields.io/badge/build-paper-red?logo=arXiv&label=arXiv&link=https://arxiv.org/abs/2404.17762)
 
 
+This repository is the official PyTorch implementation of [MA-AGIQA:Large Multi-modality Model Assisted AI-Generated Image Quality Assessment](https://arxiv.org/abs/2404.17762).
 
 ## Network Architecture
 ![image.png](src/framework.png)
@@ -60,6 +62,16 @@ python train.py
 
 ## Citation
 If you find our code or model useful for your research, please cite:
+```
+@misc{wang2024large,
+      title={Large Multi-modality Model Assisted AI-Generated Image Quality Assessment}, 
+      author={Puyi Wang and Wei Sun and Zicheng Zhang and Jun Jia and Yanwei Jiang and Zhichao Zhang and Xiongkuo Min and Guangtao Zhai},
+      year={2024},
+      eprint={2404.17762},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Acknowledgement
 Part of our code are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [Q-Align](https://github.com/Q-Future/Q-Align). Thanks for their awesome work!
