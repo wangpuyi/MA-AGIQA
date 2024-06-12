@@ -56,8 +56,13 @@ python train.py
 ## Performance
 ![image.png](src/sota.png)
 
+## Model Checkpoints
+You could download the checkpoints (10 epochs) through Google Drive.
+- AGIQA-3k [Pre-trained](https://drive.google.com/file/d/10zRC5JIpK8wiA3wThyr-hnns1C5E9TtW/view?usp=drive_link)
+- AIGCQA-20k [Pre-trained](https://drive.google.com/file/d/1nKVcmBw-K9nS4tplZhMwHySpyy8ToAzK/view?usp=sharing)
+
 ## TODO 
-- [ ] release the checkpoints
+- [x] release the checkpoints
 - [ ] simplify codes for friendly usage
 
 ## Citation
