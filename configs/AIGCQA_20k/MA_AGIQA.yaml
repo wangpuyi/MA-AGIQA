@@ -1,0 +1,28 @@
+# train/test setting
+n_epoch: 30
+
+# dataset path
+dataset_name: AIGCQA_20k
+train_test_num: 1
+set_seed: 20
+
+# data path
+data_path: "/mnt/petrelfs/yangshuo/data/AIGCQA_20k"
+label_path: "dataset/AIGCQA_20k"
+csv_path : "dataset/AIGCQA_20K/info_train.csv" # total
+json_name: "AIGCQA_20k.json"
+
+# load & save checkpoint
+log_path: "./output/log/AIGCQA_20k/"
+log_file: ".log"
+
+# getFeature
+model_path: "MAGAer13/mplug-owl2-llama2-7b"
+model_base: null
+device: "cuda"
+conv-mode: null
+temperature: 0.2
+max-new-tokens: 512
+
+tensor_root: '/mnt/hwfile/gveval/yangshuo/output/mplug_tensor/AIGCQA_20k'
+question_type: 2

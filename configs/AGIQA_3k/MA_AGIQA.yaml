@@ -1,0 +1,28 @@
+# train/test setting
+n_epoch: 30
+
+# dataset path
+dataset_name: AGIQA_3k
+train_test_num: 1
+set_seed: 20
+
+# data path
+data_path: "/mnt/petrelfs/yangshuo/data/AGIQA-3k-Database/AGIQA-3K"
+label_path: "dataset/AGIQA_3k"
+csv_path : "dataset/AGIQA_3k/data.csv" # total
+json_name: "AGIQA_3k.json"
+
+# load & save checkpoint
+log_path: "./output/log/AGIQA_3k/"
+log_file: ".log"
+
+# getFeature
+model_path: "MAGAer13/mplug-owl2-llama2-7b"
+model_base: null
+device: "cuda"
+conv-mode: null
+temperature: 0.2
+max-new-tokens: 512
+
+tensor_root: '/mnt/hwfile/gveval/yangshuo/output/mplug_tensor/AGIQA_3k'
+question_type: 2

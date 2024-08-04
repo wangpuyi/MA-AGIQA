@@ -1,0 +1,35 @@
+# optimization
+cpu_num : 1
+batch_size: 8
+learning_rate: 0.00001
+weight_decay: 0.00001
+n_epoch: 30
+val_freq: 1
+T_max: 50
+eta_min: 0
+num_avg_val: 1 # if training koniq10k, num_avg_val is set to 1
+num_workers: 8
+
+# data
+split_seed: 20
+train_keep_ratio: 1.0
+val_keep_ratio: 1.0
+crop_size: 224
+prob_aug: 0.7
+
+# model
+patch_size: 8
+img_size: 224
+embed_dim: 768
+dim_mlp: 768
+num_heads: [4, 4]
+window_size: 4
+depths: [2, 2]
+num_outputs: 1
+num_tab: 2
+scale: 0.8
+
+
+# load & save checkpoint
+log_path: "./output/log/"
+log_file: ".log"

@@ -1,0 +1,598 @@
+name,prompt,adj1,adj2,style,mos_quality,std_quality,mos_align,std_align
+AttnGAN_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,0.002134902,0.509602458,0.366280482,0.545963954
+AttnGAN_normal_109.jpg,"photograph of beautiful landscape, baroque style",,,baroque style,1.104874015,0.406617329,0.54290384,0.653092562
+xl2.2_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.658936789,0.193393978,3.506852145,0.418503563
+AttnGAN_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,1.178897031,0.887921448,0.534118347,0.439784078
+sd1.5_lowcorr_120.jpg,"die cut sticker of a pair of lips , warm color",warm color,,,2.659178911,0.846416853,2.75903949,0.770234617
+sd1.5_lowstep_190.jpg,"delicious peanut butter donut with glazing , warm color, anime style",warm color,,anime style,2.885477796,0.981219804,3.402927392,0.517912489
+midjourney_lowstep_012.jpg,life bar and mana bar,,,,2.610261314,0.490237202,1.976390846,1.182303538
+AttnGAN_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,0.747278376,0.737136097,0.767535581,0.443774969
+sd1.5_lowcorr_180.jpg,"muscular cyborg girl with prosthetic arms, warm color, anime style",warm color,,anime style,2.344386154,0.508029715,2.914221371,0.645141816
+sd1.5_normal_019.jpg,big boss eating dinner,,,,2.179358212,0.431085844,2.389907299,1.077244433
+midjourney_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,3.509228886,0.522888869,3.497739298,0.698934582
+DALLE2_normal_114.jpg,"donut glazed with white chocolate, baroque style",,,baroque style,2.837204233,0.711862584,2.790068621,0.80525371
+glide_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,1.931518323,0.575500634,1.328117093,0.783684031
+sd1.5_lowstep_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,2.989757839,0.44009768,3.102285456,0.772295947
+xl2.2_normal_004.jpg,red and blue armor,,,,2.85831935,0.923787049,3.358399036,1.172877285
+sd1.5_normal_042.jpg,a man jumping off a cliff,,,,2.763264791,0.736226076,3.447455747,0.535980761
+midjourney_lowstep_037.jpg,demon queen with red eyes,,,,2.972896262,0.545480585,3.238192633,0.632500712
+sd1.5_lowcorr_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,3.424268421,1.244113196,3.27248283,0.956352744
+sd1.5_lowstep_004.jpg,red and blue armor,,,,2.775605575,0.567843754,3.351474113,0.479547743
+sd1.5_highcorr_095.jpg,"moon sea with stars and galaxies, anime style",,,anime style,3.124885569,0.378838377,3.114500264,0.940548081
+glide_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,0.943648939,0.823784321,0.742358137,0.783435394
+sd1.5_lowcorr_051.jpg,hanging gardens of babylon,,,,3.630412823,0.479711494,3.055730638,0.810248273
+sd1.5_highcorr_195.jpg,"unique epic pink space elf knight adventurer, long-shot, anime style",long-shot,,anime style,2.632073999,0.434701113,2.87284354,0.707551587
+DALLE2_normal_044.jpg,male warrior silver armor,,,,2.459590343,0.44106585,3.44363061,0.826287868
+sd1.5_lowstep_156.jpg,"an adventure party resting in a tavern, blurred detail",blurred detail,,,2.179358212,0.939290652,2.467831921,1.100523498
+AttnGAN_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,1.133758058,0.710835617,0.753490226,0.92476458
+xl2.2_normal_060.jpg,"artwork with only triangles, anime style",,,anime style,3.568964411,0.486342725,1.759600793,0.674568896
+glide_normal_027.jpg,the large cresting waves,,,,1.378485599,0.83958531,2.798535131,0.543410228
+sd1.5_highcorr_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.305628811,0.421683211,3.18210624,0.754461624
+midjourney_normal_051.jpg,hanging gardens of babylon,,,,3.878442297,0.288003288,3.847029211,0.318315498
+sd1.5_lowcorr_205.jpg,"the fate of all fools and divine intervention, long-shot, anime style",long-shot,,anime style,1.773369934,0.35055264,1.939494873,0.892788106
+sd1.5_lowstep_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.586734895,0.675678523,2.991040101,1.211330807
+sd1.5_highcorr_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.14357511,1.212877871,2.469404785,1.273188063
+xl2.2_normal_134.jpg,"a biomechanical orchid heart fusion, close-up",close-up,,,3.347801074,0.498134063,3.524109368,0.617234554
+sd1.5_lowcorr_122.jpg,"chinese demon god character design, top view",top view,,,3.041723666,0.844090638,3.351474113,0.650915208
+midjourney_lowstep_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.161274584,0.870232351,1.739360402,0.993663214
+sd1.5_normal_195.jpg,"unique epic pink space elf knight adventurer, long-shot, anime style",long-shot,,anime style,2.363781612,0.656202967,2.840103111,0.408384298
+DALLE2_normal_275.jpg,"a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style",cold color,HDR lighting,anime style,2.233675103,0.82798687,2.211793876,0.876790781
+AttnGAN_normal_210.jpg,"an astronaut meeting an alien lizard humanoid, warm color, anime style",warm color,,anime style,0.995940844,0.80868626,0.534118347,0.481055849
+midjourney_lowstep_265.jpg,"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",warm color,long-shot,anime style,2.837064357,0.347782726,2.271216891,0.709796297
+sd1.5_lowstep_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,1.594706548,0.715585856,1.94279623,1.024343545
+midjourney_lowstep_036.jpg,gnome warfare at walmart,,,,1.916425889,0.200288738,2.342844724,1.00542466
+midjourney_normal_166.jpg,"a cybertronic metallic green tree frog , blurred detail",blurred detail,,,3.673072716,0.478161576,3.402927392,0.532600888
+sd1.5_highcorr_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,2.630872609,0.817683258,2.931303945,0.825641471
+midjourney_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,2.888789697,0.531110329,3.323965048,0.635594577
+glide_normal_007.jpg,a cat doing karaoke,,,,0.821435934,0.631626061,1.388019295,0.793575782
+sd1.5_lowcorr_276.jpg,"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",top view,close-up,sci-fi style,3.255352906,0.405849614,3.075619946,0.557972363
+xl2.2_normal_146.jpg,"cute fluffy lion cheetah hybrid mixed, blurred detail",blurred detail,,,3.474317862,0.605192015,3.455708742,0.705387401
+xl2.2_normal_175.jpg,"a portrait of the mri brain damage demon, long-shot",long-shot,,,3.374823956,0.417785973,2.231381244,1.413224264
+sd1.5_lowcorr_064.jpg,"monsters playing board games, baroque style",,,baroque style,2.426325581,0.449314086,2.508900426,0.54554126
+xl2.2_normal_010.jpg,face shot of a woman,,,,3.931077949,0.428812245,3.814814682,0.349437528
+AttnGAN_normal_051.jpg,hanging gardens of babylon,,,,1.062470367,0.623660348,0.981735619,0.76164381
+AttnGAN_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.128999889,0.681000061,1.008066046,0.454621569
+DALLE2_normal_033.jpg,the pope had a rock band,,,,2.742340814,0.567100146,2.574726496,0.903119279
+AttnGAN_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,0.850777428,0.688058427,0.957159937,0.95038095
+sd1.5_lowstep_295.jpg,"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",long-shot,HDR lighting,anime style,3.244560073,0.468803669,1.662380313,0.661853118
+sd1.5_lowcorr_166.jpg,"a cybertronic metallic green tree frog , blurred detail",blurred detail,,,3.010422973,0.485791694,2.885703528,0.708720837
+glide_normal_104.jpg,"a biomechanical cybertronic frog, baroque style",,,baroque style,1.632795725,0.294272108,2.178897063,0.514063738
+glide_normal_129.jpg,"portrait of a beautiful young woman, HDR lighting",HDR lighting,,,1.717140251,0.816976869,0.525881942,0.687629313
+AttnGAN_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,0.86802727,0.631159093,0.566059704,0.669367555
+sd1.5_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.957803829,0.462964858,3.011371163,0.767728922
+sd1.5_highcorr_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.150997182,0.440860751,3.147905927,0.584290545
+midjourney_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.25960126,0.457573012,3.031345691,0.665080209
+sd1.5_lowstep_266.jpg,"scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style",cold color,close-up,sci-fi style,2.654631009,0.750913443,2.490096099,0.682988128
+sd1.5_lowcorr_190.jpg,"delicious peanut butter donut with glazing , warm color, anime style",warm color,,anime style,2.92680752,0.611580675,2.653500595,0.476254439
+glide_normal_074.jpg,"legionary of the roman empire, baroque style",,,baroque style,1.296708731,0.761705726,0.753490226,0.90137359
+DALLE2_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,2.39306082,0.931456905,3.140830692,0.545854668
+midjourney_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.730246705,0.357019202,3.543429565,0.400029237
+sd1.5_highcorr_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.211379142,1.051008477,3.180285613,1.247387411
+midjourney_normal_089.jpg,"a crocodile in a new york sewer, baroque style",,,baroque style,3.657064334,0.361576533,3.375908012,0.711484282
+DALLE2_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,2.657997659,0.814296348,1.672693868,0.722191936
+midjourney_lowstep_021.jpg,portrait of mecha robot,,,,1.844192258,0.743062154,2.903856842,0.766218644
+glide_normal_110.jpg,"painted portrait of intense woman, anime style",,,anime style,0.229783115,1.008224322,0.388286871,0.514066765
+AttnGAN_normal_052.jpg,concept art of giant ogres,,,,1.168900836,0.472985683,0.845084862,0.641668615
+AttnGAN_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,1.197015678,0.463075247,0.970486009,0.802485632
+DALLE2_normal_219.jpg,"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",HDR lighting,,baroque style,2.299764158,0.594139599,2.983770234,0.527249999
+xl2.2_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,3.024480393,0.675445922,2.680501651,0.718605819
+AttnGAN_normal_194.jpg,"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",close-up,,baroque style,0.775293051,0.342112504,0.86788507,0.328406516
+glide_normal_254.jpg,"portrait of beautiful woman with magical nebula hair, long-shot, soft lighting",long-shot,soft lighting,,1.733569058,0.966438918,0.556273636,0.604741239
+midjourney_normal_104.jpg,"a biomechanical cybertronic frog, baroque style",,,baroque style,3.662501677,0.731596219,3.635603955,0.635935866
+DALLE2_normal_229.jpg,"a heavily bloodied horrified pretty young woman, warm color, hyper detail",warm color,hyper detail,,2.476222723,0.421855239,1.94279623,0.648363447
+sd1.5_lowcorr_115.jpg,"ocean of canvas that catches fire, anime style",,,anime style,2.104380621,1.206198658,1.848675793,1.630097441
+midjourney_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,3.558662387,0.342620207,3.318907491,0.814583404
+sd1.5_highcorr_027.jpg,the large cresting waves,,,,3.375915916,0.449940811,3.923113018,0.378377349
+sd1.5_lowcorr_006.jpg,a river in a forest,,,,3.502054974,0.51933781,3.994551072,0.582417049
+midjourney_normal_075.jpg,"concept art of octopus attack, anime style",,,anime style,3.558662387,0.552319507,3.968713435,0.417104882
+sd1.5_lowstep_032.jpg,an emo portrait painting,,,,2.274412771,0.587751302,2.389907299,0.734107688
+sd1.5_lowstep_079.jpg,"the infernal dark gun magicks , baroque style",,,baroque style,2.817259418,0.70437811,2.071203024,1.291253377
+midjourney_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.319686232,0.322498018,3.159306031,1.025665151
+glide_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,0.693938742,0.437094032,1.316179121,0.805591297
+glide_normal_015.jpg,santa claus on drugs,,,,0.563430702,0.546433261,0.60877307,0.535029947
+sd1.5_lowcorr_043.jpg,a frog wearing police cap,,,,1.76550155,0.509767547,3.238192633,0.523450869
+xl2.2_normal_285.jpg,"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",top view,HDR lighting,anime style,2.996365552,0.686775733,2.86290332,0.889128995
+AttnGAN_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,0.557530114,0.98593987,0.54235666,0.626726228
+DALLE2_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.931575646,0.535264508,2.958190852,0.917319093
+sd1.5_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,2.344386154,0.63920822,2.901806096,1.058235375
+sd1.5_lowstep_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,2.785504238,0.592610287,2.201697271,0.789768267
+sd1.5_lowstep_214.jpg,"render of rivendell dreamy beautiful landscape, close-up, baroque style",close-up,,baroque style,4.04445907,0.644511469,3.417262215,0.442665249
+sd1.5_highcorr_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,2.785504238,0.509738437,2.94270405,0.453333483
+AttnGAN_normal_096.jpg,"meme about making peanut butter , sci-fi style",,,sci-fi style,1.295323696,0.523710839,0.547283561,0.799152537
+DALLE2_normal_006.jpg,a river in a forest,,,,3.330022312,0.851156854,3.944689199,0.593399912
+glide_normal_266.jpg,"scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style",cold color,close-up,sci-fi style,0.778016184,0.365492818,1.617018803,1.233804959
+AttnGAN_normal_199.jpg,"full body portrait of cute girl wearing gown, HDR lighting, baroque style",HDR lighting,,baroque style,0.929924681,0.234741957,0.776684236,0.751598164
+glide_normal_065.jpg,"an environmental concept art, anime style",,,anime style,1.644270161,0.750119945,1.289002558,0.633327284
+glide_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,1.255971063,0.644909035,1.354623028,1.099963697
+AttnGAN_normal_012.jpg,life bar and mana bar,,,,1.337589887,0.548578888,0.936285696,0.523195868
+glide_normal_021.jpg,portrait of mecha robot,,,,1.960618923,0.51534107,2.877526414,0.940454187
+AttnGAN_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,1.147337281,0.594769093,0.786886493,0.61450857
+sd1.5_highcorr_175.jpg,"a portrait of the mri brain damage demon, long-shot",long-shot,,,2.588700346,0.501583506,2.452499565,0.526631859
+sd1.5_lowcorr_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,3.094767498,0.729081056,3.045304988,0.857184731
+sd1.5_lowstep_239.jpg,"a small grassland nestled in the hollow of a tree, elevation view, long-shot",elevation view,long-shot,,3.741408859,0.581516138,2.646301338,0.617095091
+sd1.5_lowstep_029.jpg,legendary river of slugs,,,,2.742340814,0.843031869,2.824865559,1.49280996
+xl2.2_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.852708154,0.401786007,2.628670045,0.727831046
+sd1.5_normal_016.jpg,very sad rabbit crying,,,,3.744508689,0.352841522,2.141295149,0.566794798
+xl2.2_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.241312234,1.170228187,2.364083074,0.680616639
+DALLE2_normal_041.jpg,a raspberry made of metal,,,,2.532418004,0.80740896,3.491984103,0.700947549
+xl2.2_normal_245.jpg,"fullbody portrait of half - fox woman with fox ears, top view, HDR lighting",top view,HDR lighting,,3.196755943,0.383420757,3.007473278,0.384779364
+glide_normal_276.jpg,"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",top view,close-up,sci-fi style,0.64666085,0.894124488,0.44196185,0.495494588
+sd1.5_lowstep_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.369254363,0.404220506,3.386721989,0.501477969
+glide_normal_057.jpg,sartre hugging a sad alien,,,,0.0,1.012662656,0.293474693,0.479069102
+midjourney_normal_056.jpg,survival in a winter forest,,,,3.686651939,0.714138926,3.302738591,0.830557787
+sd1.5_highcorr_160.jpg,"cute soul ghost in infinity mirror room, warm color",warm color,,,2.110015896,0.842657074,2.509709346,0.836867853
+midjourney_lowstep_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.844740127,0.723248592,2.846322945,0.67661553
+sd1.5_lowstep_009.jpg,girl from fight club,,,,2.574642925,0.357780324,1.928094768,0.672509907
+sd1.5_highcorr_029.jpg,legendary river of slugs,,,,3.307841757,0.973647671,2.956517697,0.862643902
+sd1.5_lowcorr_055.jpg,a small ocean full of life,,,,3.386504205,0.491298606,3.813376788,0.51800485
+sd1.5_lowcorr_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,1.866501955,0.475149339,2.926636646,0.37306119
+DALLE2_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,2.625770283,0.712896903,3.035247107,0.789781547
+midjourney_lowstep_060.jpg,"artwork with only triangles, anime style",,,anime style,2.852156791,0.682305992,2.689045915,0.607658595
+xl2.2_normal_053.jpg,castle from howl's sticker,,,,3.700231162,0.590692769,3.480852014,0.811836447
+sd1.5_lowstep_086.jpg,"a very drunk person named aaron, sci-fi style",,,sci-fi style,2.223207403,0.482324333,1.734292996,1.140776424
+midjourney_normal_279.jpg,"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",elevation view,long-shot,baroque style,3.636963354,0.566993432,2.247340947,1.014008811
+DALLE2_normal_164.jpg,"a pig sitting in a chair smoking a pipe, close-up",close-up,,,3.403754047,0.428600355,3.635603955,0.823254371
+midjourney_normal_260.jpg,"mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style",warm color,top view,anime style,3.374823956,0.637439532,2.51693257,0.612916747
+midjourney_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,2.455012736,1.062236918,3.161543067,0.759091366
+sd1.5_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,3.248505469,1.069490032,3.0193248,0.844841493
+midjourney_lowstep_236.jpg,"short - haired short butch tomboy blonde engineer, top view, close-up",top view,close-up,,3.457533183,0.574617423,2.943352484,0.56833366
+sd1.5_highcorr_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,3.157062251,0.408411168,2.846322945,0.909865663
+xl2.2_normal_149.jpg,"a plasticine model of a goblin raider, HDR lighting",HDR lighting,,,3.199282771,0.272306632,3.369510326,0.764212623
+sd1.5_highcorr_174.jpg,"ancient golden chrome finish skateboard , close-up",close-up,,,2.293266536,1.108318477,3.259317616,0.317667798
+DALLE2_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,2.176839871,0.785229781,2.443074357,0.785800386
+DALLE2_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,0.0,0.324752734,0.253699602,0.465981252
+sd1.5_lowcorr_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.757702826,0.623705811,3.906719072,0.535626699
+AttnGAN_normal_296.jpg,"bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style",blurred detail,soft lighting,sci-fi style,0.902911271,0.483214786,0.976132005,1.016941531
+xl2.2_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,3.701722739,0.470483743,3.665354297,0.452256588
+sd1.5_highcorr_126.jpg,"the shogoth wearing a santa costume, blurred detail",blurred detail,,,2.660597966,0.512021961,2.482684398,0.737491204
+DALLE2_normal_145.jpg,"kraken is using large sponge for bath, long-shot",long-shot,,,3.048358432,0.380960927,1.972767588,0.340659148
+midjourney_lowstep_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.851759102,1.022124178,3.268206767,0.42607834
+DALLE2_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.493154926,0.470406429,2.218965969,0.779356992
+midjourney_lowstep_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,2.852156791,0.413610383,2.366720668,0.596493898
+sd1.5_lowcorr_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,2.980532355,0.603574748,2.723869967,0.4276736
+midjourney_normal_046.jpg,the drowned and the saved,,,,4.104828805,0.510973257,2.31896878,0.505271924
+AttnGAN_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,1.252358797,0.4640501,0.719280515,0.977929443
+sd1.5_highcorr_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,2.343163678,0.499687656,1.692657167,1.001261566
+sd1.5_normal_010.jpg,face shot of a woman,,,,2.83450926,0.59033734,3.576346344,1.019465776
+sd1.5_lowcorr_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.600314118,0.808938022,2.968775923,0.672392872
+sd1.5_lowcorr_013.jpg,everything is a dream,,,,2.771446817,0.730046325,2.669101547,0.649559483
+xl2.2_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,3.169097903,0.563733083,2.509976334,0.653713982
+sd1.5_lowstep_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.715217134,0.57973726,2.70330186,0.511054154
+glide_normal_086.jpg,"a very drunk person named aaron, sci-fi style",,,sci-fi style,1.075025374,0.679539917,0.720129493,0.496435028
+glide_normal_090.jpg,"little girl with a mushroom hat, anime style",,,anime style,1.296708731,0.382408553,1.143113339,0.838034727
+sd1.5_lowstep_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.252116811,1.123322952,3.10236099,0.819761074
+sd1.5_lowstep_037.jpg,demon queen with red eyes,,,,3.024257523,0.464251279,3.102285456,0.460362887
+xl2.2_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,3.558662387,0.712251735,2.235897584,0.938260899
+sd1.5_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.717733183,0.715172872,1.548541117,0.592762862
+xl2.2_normal_235.jpg,"steampunk squid inside a glass jar buried in sand, cold color, HDR lighting",cold color,HDR lighting,,3.010422973,0.540865085,3.079505301,0.691781593
+AttnGAN_normal_170.jpg,"portrait of butterflies swarming flowers, warm color",warm color,,,1.04513849,0.439440104,0.927777366,0.722836313
+glide_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,1.494912264,0.667057786,1.231874682,0.530558064
+glide_normal_060.jpg,"artwork with only triangles, anime style",,,anime style,1.063255848,0.447317489,1.507286544,0.988836031
+xl2.2_normal_135.jpg,"a set of different trees and bushes, long-shot",long-shot,,,2.538526609,0.565054779,3.001128296,0.676496646
+sd1.5_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,3.131243411,0.627204933,1.787713427,0.752952995
+midjourney_normal_018.jpg,man hating his printer,,,,3.887128521,0.29436002,3.762894082,0.754260516
+sd1.5_lowcorr_210.jpg,"an astronaut meeting an alien lizard humanoid, warm color, anime style",warm color,,anime style,2.546528083,0.57618922,2.965504258,0.435477286
+midjourney_lowstep_209.jpg,"an uprising of disneyland costumed characters, HDR lighting, baroque style",HDR lighting,,baroque style,1.134565764,0.691897746,1.373169339,0.571503527
+AttnGAN_normal_056.jpg,survival in a winter forest,,,,1.391281461,0.563978653,0.922047832,0.470764946
+DALLE2_normal_070.jpg,"space reflected in fox's eye , anime style",,,anime style,2.11262753,0.589767995,2.999433191,0.725975316
+sd1.5_lowcorr_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.423784221,0.450350728,2.968775923,0.684165507
+sd1.5_normal_055.jpg,a small ocean full of life,,,,2.058266369,0.644567027,2.711185223,0.844196893
+AttnGAN_normal_290.jpg,"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",long-shot,blurred detail,anime style,0.799027902,0.675947693,0.933456892,0.823621575
+glide_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,1.011545053,0.545776208,0.653301426,0.596414647
+sd1.5_normal_032.jpg,an emo portrait painting,,,,2.355888108,0.526639961,2.824058767,0.538260639
+DALLE2_normal_194.jpg,"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",close-up,,baroque style,2.493724965,0.788517999,3.050789396,0.994837245
+sd1.5_highcorr_136.jpg,"man in his late 40 s wearing a suit, blurred detail",blurred detail,,,3.410576846,0.595894176,3.572455852,0.578699258
+sd1.5_normal_179.jpg,"underwater photography of the rough ocean, HDR lighting",HDR lighting,,,2.317014,0.939157041,2.995621756,0.542345208
+xl2.2_normal_116.jpg,"portrait of beautiful armored girl, sci-fi style",,,sci-fi style,3.662501677,0.480029839,3.837079833,0.57107132
+midjourney_lowstep_226.jpg,"an anatomically correct cybertronic human heart, cold color, close-up",cold color,close-up,,1.674946946,0.555254957,3.154626828,0.916977343
+sd1.5_lowcorr_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.136939761,0.449872485,3.170706135,0.637981427
+midjourney_normal_006.jpg,a river in a forest,,,,3.756916035,0.744029567,3.930743523,0.750581128
+glide_normal_011.jpg,the prince of the sun,,,,1.719307075,1.034112523,1.848675793,0.983798401
+midjourney_normal_086.jpg,"a very drunk person named aaron, sci-fi style",,,sci-fi style,3.9689969,0.179142069,3.715711518,0.467427911
+sd1.5_lowstep_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.161765422,0.668476306,2.877106534,0.630485448
+AttnGAN_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,1.213024111,0.765827455,1.146784292,0.559434403
+sd1.5_highcorr_015.jpg,santa claus on drugs,,,,2.717733183,0.469201298,2.169304869,0.527900993
+sd1.5_highcorr_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.750409116,0.482943362,2.784549692,0.649201238
+AttnGAN_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,1.075006252,0.188849291,0.369089989,0.621180161
+midjourney_lowstep_260.jpg,"mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style",warm color,top view,anime style,2.888789697,0.619711374,2.750918808,0.782938971
+DALLE2_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.120303781,0.571813668,1.726751061,1.125012818
+midjourney_lowstep_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,0.663293231,0.742893648,2.271926577,1.517237795
+sd1.5_lowcorr_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,2.782759734,0.455600158,2.841551967,0.793816327
+DALLE2_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.616815188,0.649527204,2.452499565,1.104207328
+glide_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,0.0,0.201756042,0.190499441,0.154827399
+xl2.2_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.49654282,0.61103753,3.480852014,0.731154583
+midjourney_lowstep_116.jpg,"portrait of beautiful armored girl, sci-fi style",,,sci-fi style,2.757389397,0.317265041,3.239106761,0.489428098
+DALLE2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.462183558,0.643627595,2.452499565,0.523719054
+AttnGAN_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,1.871148587,0.586890464,1.471372759,1.007367299
+sd1.5_lowstep_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.1806835,0.413262504,2.181720144,0.872532542
+midjourney_normal_039.jpg,beautiful topaz girl dark,,,,4.058272319,0.255470312,3.494659672,0.570908616
+sd1.5_lowstep_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.206516657,0.740141251,2.16726552,0.946262106
+midjourney_lowstep_126.jpg,"the shogoth wearing a santa costume, blurred detail",blurred detail,,,1.880615311,0.83231057,2.37877521,1.215757703
+midjourney_lowstep_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.008458905,0.492722201,3.048674194,0.65610737
+DALLE2_normal_052.jpg,concept art of giant ogres,,,,2.92075847,0.767190259,3.078582412,0.9195149
+sd1.5_normal_279.jpg,"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",elevation view,long-shot,baroque style,2.817259418,0.737041314,2.983770234,0.612273077
+DALLE2_normal_000.jpg,statue of a man,,,,3.058757207,0.538696487,3.481534167,0.46101074
+xl2.2_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,3.214375205,0.497681183,3.094936968,0.465359536
+sd1.5_highcorr_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,1.971039124,0.484404746,2.54176312,0.721839723
+midjourney_normal_240.jpg,"photoreal portrait of a futuristic intricate robot, top view, blurred detail",top view,blurred detail,,3.956504603,0.733022817,3.193491547,0.767706711
+midjourney_lowstep_180.jpg,"muscular cyborg girl with prosthetic arms, warm color, anime style",warm color,,anime style,1.851268265,0.656642841,3.137840023,1.153962228
+sd1.5_lowcorr_058.jpg,hairy man in eagle costume,,,,2.888789697,0.540522204,3.275195155,0.476954865
+AttnGAN_normal_230.jpg,"a fantast beauty detailed elf with mermaid tail, cold color, blurred detail",cold color,blurred detail,,1.248661629,0.484911092,0.702583315,0.312012508
+DALLE2_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.14357511,0.892794556,2.443074357,0.883925442
+xl2.2_normal_270.jpg,"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",cold color,blurred detail,anime style,2.788955814,0.382690741,3.080115584,0.701627667
+midjourney_lowstep_051.jpg,hanging gardens of babylon,,,,2.323921604,0.648105458,3.369510326,0.622170435
+sd1.5_lowstep_052.jpg,concept art of giant ogres,,,,2.867071995,0.446989912,3.808121173,0.43081433
+sd1.5_lowcorr_250.jpg,"a dramatic photo of a mountain made of layered cake, long-shot, blurred detail",long-shot,blurred detail,,3.632335048,0.447816816,2.16726552,1.181159646
+sd1.5_lowstep_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.65898745,0.799456869,2.874303424,1.211120302
+glide_normal_006.jpg,a river in a forest,,,,1.343816114,0.329223598,3.112865772,0.915899406
+sd1.5_lowstep_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,2.747600946,0.604099624,2.169304869,0.689175386
+sd1.5_highcorr_139.jpg,"digital painting of a lake at sunset, HDR lighting",HDR lighting,,,1.678769845,0.770325933,2.462303257,1.118537851
+DALLE2_normal_206.jpg,"robots creating new robots in a dirty factory, blurred detail, sci-fi style",blurred detail,,sci-fi style,2.279437086,0.71803431,2.612101025,0.390970008
+sd1.5_lowcorr_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.681789454,0.873922316,2.879719212,1.371679293
+sd1.5_highcorr_104.jpg,"a biomechanical cybertronic frog, baroque style",,,baroque style,2.852156791,0.549321673,3.214316689,0.706774038
+glide_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,1.358005834,0.351998219,1.566876536,0.616766924
+midjourney_lowstep_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,3.374371279,0.672106964,3.377804541,0.677078007
+DALLE2_normal_214.jpg,"render of rivendell dreamy beautiful landscape, close-up, baroque style",close-up,,baroque style,3.088457462,0.43190077,3.17765537,1.018208869
+midjourney_lowstep_214.jpg,"render of rivendell dreamy beautiful landscape, close-up, baroque style",close-up,,baroque style,2.304048386,0.440649355,2.799688701,0.57602728
+sd1.5_lowcorr_023.jpg,king kong on fighting,,,,2.339014038,0.411558082,2.629356055,0.485742541
+AttnGAN_normal_226.jpg,"an anatomically correct cybertronic human heart, cold color, close-up",cold color,close-up,,1.403283136,0.496572645,1.471372759,0.372447159
+DALLE2_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,2.058266369,0.579100256,2.474154779,0.797689169
+midjourney_lowstep_130.jpg,"photography of a happy blonde girl , warm color",warm color,,,3.421003889,0.701623319,3.765970699,0.659670827
+xl2.2_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.30238721,0.487585817,3.799471502,0.44372683
+glide_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,1.269146708,0.425814488,0.654641315,0.396338658
+DALLE2_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.889332048,0.577938545,1.44367974,0.456340619
+DALLE2_normal_014.jpg,a small leopard gecko,,,,2.954193289,0.812933299,3.752111454,0.466311259
+xl2.2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.771446817,0.511397973,2.429699357,1.136037706
+sd1.5_lowstep_140.jpg,"cute great old ones sitting in a bar, warm color",warm color,,,3.507430325,0.526371039,1.679491953,0.718834646
+sd1.5_lowcorr_275.jpg,"a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style",cold color,HDR lighting,anime style,3.374823956,0.384925924,2.951467196,0.795459704
+sd1.5_lowstep_041.jpg,a raspberry made of metal,,,,2.804002459,0.457795087,2.456699832,0.610503627
+midjourney_normal_150.jpg,"portrait of ciri as a samurai assassin, warm color",warm color,,,4.029366636,0.447867237,3.978346905,0.237850608
+sd1.5_lowstep_042.jpg,a man jumping off a cliff,,,,3.231077294,0.69448833,3.787279028,0.592418874
+AttnGAN_normal_269.jpg,"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",warm color,hyper detail,baroque style,0.712802152,0.420762558,0.731226048,0.784941378
+DALLE2_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.157904831,0.47883484,3.118812912,1.060456819
+xl2.2_normal_155.jpg,"an auto rickshaw driving through paris, long-shot",long-shot,,,3.449493362,0.487986761,2.876975546,0.580680124
+sd1.5_lowstep_280.jpg,"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",top view,blurred detail,anime style,2.377839033,0.723424649,1.836893934,0.786270207
+sd1.5_highcorr_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,0.402281536,0.936608861,1.289002558,0.918706739
+xl2.2_normal_035.jpg,illustration of a rowboat,,,,3.516316957,0.868875288,3.348349994,0.618934168
+midjourney_lowstep_040.jpg,an elaborate robot coding,,,,1.358005834,0.756235275,1.340055066,0.624783555
+sd1.5_highcorr_004.jpg,red and blue armor,,,,3.541752783,0.538798154,3.0193248,1.003932657
+midjourney_lowstep_196.jpg,"the essence of the chemical element hydrogen, blurred detail, sci-fi style",blurred detail,,sci-fi style,2.213514948,0.5065825,2.497857823,1.067813636
+DALLE2_normal_051.jpg,hanging gardens of babylon,,,,2.927618961,0.96837507,2.139899198,1.298750507
+sd1.5_highcorr_250.jpg,"a dramatic photo of a mountain made of layered cake, long-shot, blurred detail",long-shot,blurred detail,,2.955258155,0.850527162,2.225272813,1.329057592
+xl2.2_normal_194.jpg,"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",close-up,,baroque style,3.29157139,0.605402541,3.250506865,0.785516359
+sd1.5_lowcorr_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.723651273,0.923835854,3.022343767,1.51905941
+glide_normal_289.jpg,"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",close-up,hyper detail,baroque style,1.098613732,0.800392431,1.221288303,0.492102123
+sd1.5_lowstep_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.958236395,0.440408113,3.158021435,1.134802748
+DALLE2_normal_270.jpg,"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",cold color,blurred detail,anime style,1.262923612,0.514537315,2.324182247,1.200311516
+midjourney_lowstep_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,1.794295116,0.435944596,2.601056923,0.954981303
+midjourney_lowstep_206.jpg,"robots creating new robots in a dirty factory, blurred detail, sci-fi style",blurred detail,,sci-fi style,0.892112049,0.411356696,1.958408052,0.902429791
+glide_normal_195.jpg,"unique epic pink space elf knight adventurer, long-shot, anime style",long-shot,,anime style,0.447072282,0.913460746,0.086501076,0.637555745
+glide_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,0.879514179,0.741091111,1.732152809,0.829841522
+AttnGAN_normal_076.jpg,"a biomechanical dahlia flower, sci-fi style",,,sci-fi style,1.098613732,0.901195797,0.845084862,0.747778109
+sd1.5_normal_274.jpg,"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",cold color,soft lighting,baroque style,3.568964411,0.512858429,3.050789396,0.860604503
+sd1.5_highcorr_051.jpg,hanging gardens of babylon,,,,3.645914271,0.477898507,3.514248281,1.056068743
+sd1.5_lowcorr_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.291209376,0.87041229,2.653717779,1.14762394
+AttnGAN_normal_246.jpg,"alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting",elevation view,soft lighting,,0.463704663,0.883901444,0.27081407,0.744504133
+midjourney_lowstep_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,1.541134741,0.552565501,2.178397609,0.848077185
+midjourney_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.357738899,0.805816426,3.430465396,0.72053618
+sd1.5_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.530547546,0.335915298,3.524109368,0.454486
+sd1.5_normal_095.jpg,"moon sea with stars and galaxies, anime style",,,anime style,2.92075847,0.63431255,3.173394589,0.391492563
+DALLE2_normal_032.jpg,an emo portrait painting,,,,2.478791084,1.026343194,2.777653346,0.550424752
+midjourney_normal_079.jpg,"the infernal dark gun magicks , baroque style",,,baroque style,3.700231162,0.844881086,2.401039388,1.167818513
+sd1.5_normal_240.jpg,"photoreal portrait of a futuristic intricate robot, top view, blurred detail",top view,blurred detail,,3.601888857,0.571466574,3.189847843,0.602957653
+midjourney_normal_034.jpg,rat portrait as a warrior,,,,3.44620302,0.339150857,3.74071135,0.493576401
+xl2.2_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,3.374329815,0.973526158,3.358399036,1.187163793
+sd1.5_highcorr_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,2.583328253,0.436221945,2.268627069,0.799837651
+sd1.5_lowcorr_090.jpg,"little girl with a mushroom hat, anime style",,,anime style,3.145006417,0.649519132,3.683010044,0.796383471
+DALLE2_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.402221092,1.008400409,3.64096935,0.458670749
+sd1.5_lowcorr_230.jpg,"a fantast beauty detailed elf with mermaid tail, cold color, blurred detail",cold color,blurred detail,,0.634718842,0.18031584,1.836893934,1.267974439
+midjourney_normal_290.jpg,"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",long-shot,blurred detail,anime style,4.149074065,0.302639199,2.954104154,0.637186347
+sd1.5_lowstep_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,0.385031694,0.855643322,1.111229725,1.261092143
+DALLE2_normal_120.jpg,"die cut sticker of a pair of lips , warm color",warm color,,,2.261262436,1.068172636,3.348349994,0.649337936
+midjourney_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,3.989769364,0.778207299,3.746430529,0.573303753
+sd1.5_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.209981223,0.830768059,2.39277982,0.55787419
+DALLE2_normal_190.jpg,"delicious peanut butter donut with glazing , warm color, anime style",warm color,,anime style,2.67293154,0.602921629,3.485324022,0.774307739
+sd1.5_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.254782866,0.411238367,1.920999368,0.707133373
+DALLE2_normal_244.jpg,"man at a royal banquet wearing an asymmetrical gown, top view, soft lighting",top view,soft lighting,,2.058266369,0.550775795,2.85340349,0.792650926
+AttnGAN_normal_266.jpg,"scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style",cold color,close-up,sci-fi style,1.056441469,0.192643162,0.822284653,0.536242236
+midjourney_lowstep_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.747600946,0.269887622,3.038374121,0.714368708
+midjourney_normal_139.jpg,"digital painting of a lake at sunset, HDR lighting",HDR lighting,,,3.808864944,0.573783568,3.781418415,0.441179738
+sd1.5_lowstep_194.jpg,"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",close-up,,baroque style,3.110506733,0.535084177,3.327464378,0.708664672
+sd1.5_highcorr_215.jpg,"portrait with no signature of aggressive alien, long-shot, anime style",long-shot,,anime style,2.260001775,0.65774009,2.311422218,0.686694159
+sd1.5_normal_056.jpg,survival in a winter forest,,,,3.361858495,0.581168107,3.387308117,0.765519336
+xl2.2_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,3.124885569,1.038664373,2.69321342,1.019386537
+AttnGAN_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,0.358179955,0.202805781,0.282183064,0.437292499
+AttnGAN_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,0.799027902,0.749671265,1.087526681,1.192546223
+DALLE2_normal_179.jpg,"underwater photography of the rough ocean, HDR lighting",HDR lighting,,,1.867036088,1.452292988,2.746134145,1.025820001
+glide_normal_020.jpg,a overgrown old house,,,,0.764528218,0.664572892,1.763063447,0.629736819
+sd1.5_lowstep_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,0.739960598,0.744842911,1.009528271,0.691204646
+midjourney_lowstep_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.80733647,0.537112557,2.827314446,0.780856526
+midjourney_lowstep_033.jpg,the pope had a rock band,,,,2.165179579,0.624781709,2.44244092,0.570381404
+sd1.5_lowcorr_255.jpg,"magician god holding a divine staff character design, long-shot, HDR lighting",long-shot,HDR lighting,,2.260833548,0.684464797,2.089340898,0.582340874
+sd1.5_lowcorr_226.jpg,"an anatomically correct cybertronic human heart, cold color, close-up",cold color,close-up,,3.373697126,0.642405757,2.60460913,0.881042691
+DALLE2_normal_009.jpg,girl from fight club,,,,3.127756575,0.73335884,3.4459796,0.810489819
+glide_normal_100.jpg,"a small garden buzzing with bees, anime style",,,anime style,1.358005834,0.806326564,1.411682898,0.815104534
+midjourney_lowstep_135.jpg,"a set of different trees and bushes, long-shot",long-shot,,,1.989267001,0.693791305,3.208949156,0.751560821
+sd1.5_lowcorr_264.jpg,"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",warm color,close-up,baroque style,1.946610757,0.444751539,2.832301581,1.065832759
+sd1.5_lowcorr_145.jpg,"kraken is using large sponge for bath, long-shot",long-shot,,,2.326531297,0.917069093,1.929631016,0.620513963
+xl2.2_normal_038.jpg,christmas at kelly family,,,,3.207226865,0.629460473,3.945913227,0.405501461
+sd1.5_lowcorr_295.jpg,"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",long-shot,HDR lighting,anime style,2.243369394,0.525496438,2.324587432,0.709179865
+sd1.5_highcorr_224.jpg,"lovers being pulled apart across space and time, warm color, close-up",warm color,close-up,,2.38429134,0.587029487,2.354782696,1.179384133
+sd1.5_highcorr_094.jpg,"painted portrait of fierce elder, baroque style",,,baroque style,2.989757839,0.425765138,3.315612856,0.564074778
+sd1.5_normal_170.jpg,"portrait of butterflies swarming flowers, warm color",warm color,,,3.573959847,0.664801772,2.772204703,0.574197033
+sd1.5_lowstep_017.jpg,tragedy of the commons,,,,2.166977719,0.845650652,1.700092683,1.144708255
+DALLE2_normal_215.jpg,"portrait with no signature of aggressive alien, long-shot, anime style",long-shot,,anime style,2.344386154,0.555478037,2.54176312,0.590565632
+xl2.2_normal_007.jpg,a cat doing karaoke,,,,3.490797944,0.938736911,3.575282749,0.710863625
+DALLE2_normal_099.jpg,"brain floating out of a portrait, baroque style",,,baroque style,2.657997659,0.386321661,3.274264347,0.729044868
+sd1.5_lowstep_035.jpg,illustration of a rowboat,,,,3.199282771,1.038415057,3.488890048,0.994729081
+glide_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,1.816768581,0.61724461,2.166015202,0.787201407
+glide_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,1.086342024,0.711934289,2.139899198,1.127248295
+sd1.5_lowstep_104.jpg,"a biomechanical cybertronic frog, baroque style",,,baroque style,3.524162768,0.494729729,3.410832372,0.642517547
+sd1.5_highcorr_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,2.746169865,0.461928786,2.677763969,0.610014902
+glide_normal_220.jpg,"sparkling heart blue mana tree inside a marble, warm color, top view",warm color,top view,,1.106599613,0.760343383,1.710849874,1.233679756
+sd1.5_lowstep_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.685179175,0.448159721,2.737502173,0.519092617
+DALLE2_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,0.820802133,0.380746294,1.470709125,0.889649052
+AttnGAN_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,0.865931916,0.354303591,0.828455166,0.356401086
+AttnGAN_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,0.986154364,0.339139321,0.70828361,0.497767609
+xl2.2_normal_030.jpg,brand logo fruit company,,,,2.912021026,0.422026357,2.817302903,0.767429826
+sd1.5_highcorr_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.116981428,0.953992013,3.543429565,0.546592727
+sd1.5_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.309898917,1.086186803,1.890135375,0.861333496
+midjourney_lowstep_129.jpg,"portrait of a beautiful young woman, HDR lighting",HDR lighting,,,2.695368677,0.410187717,3.113493079,0.498614839
+sd1.5_highcorr_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.045671512,0.476602268,3.299580101,0.746475379
+DALLE2_normal_136.jpg,"man in his late 40 s wearing a suit, blurred detail",blurred detail,,,3.108728168,0.572480138,3.154626828,0.462788241
+AttnGAN_normal_279.jpg,"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",elevation view,long-shot,baroque style,0.807856712,0.480739002,0.686697692,0.656415613
+midjourney_lowstep_144.jpg,"pendant of a silver starfish necklace, close-up",close-up,,,2.988623579,0.585309139,3.701931716,0.452048922
+sd1.5_lowcorr_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.966953132,0.700603358,3.436323658,0.410341054
+sd1.5_normal_269.jpg,"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",warm color,hyper detail,baroque style,3.184190337,0.62373359,3.644083685,0.634327229
+midjourney_normal_146.jpg,"cute fluffy lion cheetah hybrid mixed, blurred detail",blurred detail,,,3.632335048,0.762296174,3.469719925,0.727123386
+midjourney_normal_050.jpg,logo design of a full moon,,,,3.058356047,1.006463942,2.548396068,1.17504019
+AttnGAN_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,1.144024742,0.561674132,0.957159937,0.733296098
+sd1.5_normal_106.jpg,"vaporware yosemite amusement park, sci-fi style",,,sci-fi style,3.561501185,0.659340528,3.572455852,0.386026504
+glide_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,0.212533273,0.929852104,0.518653615,0.616824934
+midjourney_normal_049.jpg,portrait of evil alchemist,,,,3.92737756,0.522641898,3.708798973,1.474879694
+glide_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,1.385522531,0.47347537,1.075675159,0.579956351
+sd1.5_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.045671512,0.950457984,3.226425262,0.85415302
+midjourney_normal_021.jpg,portrait of mecha robot,,,,3.887128521,0.401811153,3.921396233,0.429048001
+AttnGAN_normal_174.jpg,"ancient golden chrome finish skateboard , close-up",close-up,,,1.014269206,0.795171719,0.70828361,0.799693493
+midjourney_lowstep_052.jpg,concept art of giant ogres,,,,1.527555519,0.27642482,2.890851301,0.756954899
+glide_normal_115.jpg,"ocean of canvas that catches fire, anime style",,,anime style,0.720968251,0.342467312,0.653813422,0.964934574
+sd1.5_lowstep_209.jpg,"an uprising of disneyland costumed characters, HDR lighting, baroque style",HDR lighting,,baroque style,2.689121932,0.43869553,2.945998379,0.319807616
+sd1.5_normal_034.jpg,rat portrait as a warrior,,,,2.609281769,0.488739355,2.245596149,1.084802758
+glide_normal_124.jpg,"action shot of woman pole vaulting, close-up",close-up,,,0.165703556,0.48582684,0.325327435,0.536731635
+sd1.5_lowstep_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,2.883906185,0.51102625,3.296107282,0.389751567
+AttnGAN_normal_000.jpg,statue of a man,,,,0.965602553,0.223270101,0.40889324,0.615607722
+sd1.5_lowcorr_002.jpg,man lost in space,,,,2.659178911,0.756436473,2.956517697,0.896497904
+glide_normal_199.jpg,"full body portrait of cute girl wearing gown, HDR lighting, baroque style",HDR lighting,,baroque style,2.006980492,0.577778377,0.468583101,0.709311079
+sd1.5_normal_264.jpg,"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",warm color,close-up,baroque style,1.765019055,1.050067049,2.272678902,0.879612429
+midjourney_normal_250.jpg,"a dramatic photo of a mountain made of layered cake, long-shot, blurred detail",long-shot,blurred detail,,3.723651273,0.578175109,3.50945668,0.329614767
+glide_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,0.60416837,0.537162432,1.087452894,0.969988713
+sd1.5_lowcorr_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.472753415,0.909066086,2.995621756,0.518030745
+sd1.5_lowcorr_019.jpg,big boss eating dinner,,,,2.010516065,0.427383526,2.838030773,0.912261298
+sd1.5_lowstep_090.jpg,"little girl with a mushroom hat, anime style",,,anime style,1.575270793,0.569769455,2.474154779,0.830851533
+sd1.5_highcorr_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,3.34717137,0.580715112,3.269342324,0.697386254
+sd1.5_lowstep_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,2.749685568,0.860031087,2.545756544,1.519557482
+glide_normal_053.jpg,castle from howl's sticker,,,,1.012573225,0.744960462,0.981735619,0.592176071
+glide_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,1.077517831,1.205676334,0.507503744,0.452524682
+midjourney_lowstep_110.jpg,"painted portrait of intense woman, anime style",,,anime style,3.39100366,0.778064364,3.548952321,0.703001786
+midjourney_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,4.436862351,0.382287812,3.811215295,0.771453814
+DALLE2_normal_230.jpg,"a fantast beauty detailed elf with mermaid tail, cold color, blurred detail",cold color,blurred detail,,2.299764158,0.633967055,2.960067189,0.609651256
+midjourney_lowstep_215.jpg,"portrait with no signature of aggressive alien, long-shot, anime style",long-shot,,anime style,2.994111578,1.104067939,2.824058767,0.742920647
+midjourney_normal_076.jpg,"a biomechanical dahlia flower, sci-fi style",,,sci-fi style,3.953904466,0.632810152,3.787339351,0.408314173
+sd1.5_lowcorr_007.jpg,a cat doing karaoke,,,,2.354106472,0.475679937,1.972767588,0.643913468
+DALLE2_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,3.524062705,0.663198275,3.417300183,0.617227542
+sd1.5_normal_126.jpg,"the shogoth wearing a santa costume, blurred detail",blurred detail,,,1.931518323,0.200283157,3.262068577,0.822965095
+AttnGAN_normal_179.jpg,"underwater photography of the rough ocean, HDR lighting",HDR lighting,,,1.063255848,0.78982614,0.641620949,0.990660571
+xl2.2_normal_290.jpg,"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",long-shot,blurred detail,anime style,3.360750593,0.9856238,3.224813969,0.43067797
+sd1.5_normal_028.jpg,maroon to black gradient,,,,2.903508628,0.656135352,1.229744947,1.220082233
+glide_normal_146.jpg,"cute fluffy lion cheetah hybrid mixed, blurred detail",blurred detail,,,1.866501955,0.402894545,2.740407521,0.633372729
+midjourney_lowstep_200.jpg,"alien planet landscape made out of mushrooms, warm color, anime style",warm color,,anime style,2.152199766,0.69566059,2.979908012,0.53518453
+midjourney_lowstep_159.jpg,"person walking inside a timeless bubble, HDR lighting",HDR lighting,,,1.83340294,0.700948019,2.994768272,0.800980232
+sd1.5_lowstep_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,2.991826524,0.643467635,3.075004622,0.754976498
+AttnGAN_normal_043.jpg,a frog wearing police cap,,,,1.23918794,0.91838711,0.605682672,0.788806643
+midjourney_normal_159.jpg,"person walking inside a timeless bubble, HDR lighting",HDR lighting,,,3.445007041,0.81335553,3.189847843,1.172829809
+DALLE2_normal_236.jpg,"short - haired short butch tomboy blonde engineer, top view, close-up",top view,close-up,,3.715984722,0.771924597,3.897011287,0.473197245
+xl2.2_normal_054.jpg,beautiful white fluffy cat,,,,3.754548053,0.612601475,3.981796016,0.597071203
+glide_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,1.373098268,0.993008421,2.486100389,0.913861709
+xl2.2_normal_009.jpg,girl from fight club,,,,3.757702826,0.420776374,3.381448298,0.66965805
+sd1.5_lowstep_144.jpg,"pendant of a silver starfish necklace, close-up",close-up,,,3.486039015,0.638759799,4.038036765,0.242974448
+sd1.5_highcorr_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,3.170641474,0.586946266,3.158021435,0.713386071
+glide_normal_219.jpg,"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",HDR lighting,,baroque style,1.22513052,0.808635242,1.791293517,0.906282788
+AttnGAN_normal_229.jpg,"a heavily bloodied horrified pretty young woman, warm color, hyper detail",warm color,hyper detail,,0.799027902,0.852995712,0.696426448,0.582324168
+sd1.5_lowstep_110.jpg,"painted portrait of intense woman, anime style",,,anime style,2.7089479,0.562640047,2.545756544,0.647984848
+DALLE2_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.899057018,0.614928119,3.124625168,0.770011767
+sd1.5_lowcorr_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,1.676521125,0.58418893,1.934023105,0.891791895
+sd1.5_highcorr_043.jpg,a frog wearing police cap,,,,3.455805152,0.596598709,3.703493793,0.415965946
+sd1.5_lowcorr_155.jpg,"an auto rickshaw driving through paris, long-shot",long-shot,,,2.248014632,0.529553029,2.687482179,0.829263129
+glide_normal_031.jpg,black mickey mouse skull,,,,1.328588457,0.54927107,0.915909549,0.742299026
+AttnGAN_normal_259.jpg,"a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting",hyper detail,HDR lighting,,0.592546579,0.350429852,0.594282567,0.606410314
+glide_normal_166.jpg,"a cybertronic metallic green tree frog , blurred detail",blurred detail,,,2.403882268,0.47099903,2.811881174,0.523423959
+sd1.5_lowstep_236.jpg,"short - haired short butch tomboy blonde engineer, top view, close-up",top view,close-up,,2.65898745,0.30585034,2.634901234,0.506944135
+midjourney_lowstep_146.jpg,"cute fluffy lion cheetah hybrid mixed, blurred detail",blurred detail,,,2.426325581,0.498139467,3.720100101,0.446562769
+AttnGAN_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.077517831,0.332206581,0.726968261,0.556614721
+DALLE2_normal_004.jpg,red and blue armor,,,,2.790423236,0.607927908,3.569908726,0.385583823
+sd1.5_lowcorr_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.389187797,0.546879103,2.603839495,0.670862586
+midjourney_lowstep_160.jpg,"cute soul ghost in infinity mirror room, warm color",warm color,,,2.293736737,0.794043185,3.56051788,0.841346535
+AttnGAN_normal_007.jpg,a cat doing karaoke,,,,0.80654015,0.393910643,0.397771485,0.412883462
+sd1.5_lowstep_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,3.374329815,0.495455533,2.111605076,1.294266083
+sd1.5_lowcorr_080.jpg,"painted portrait of goblin man, anime style",,,anime style,2.808870337,0.623779528,3.61477839,0.605983668
+AttnGAN_normal_196.jpg,"the essence of the chemical element hydrogen, blurred detail, sci-fi style",blurred detail,,sci-fi style,0.8493261,0.49328618,0.629428475,0.446159964
+AttnGAN_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,0.912778941,0.610751777,0.968570405,0.590980929
+sd1.5_lowstep_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,2.602757767,0.394982854,2.760302381,0.519789852
+sd1.5_lowstep_175.jpg,"a portrait of the mri brain damage demon, long-shot",long-shot,,,2.247254325,0.830902555,3.057832635,0.538565831
+midjourney_normal_194.jpg,"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",close-up,,baroque style,3.438253731,0.968037989,3.434128078,0.669408468
+xl2.2_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,3.235341707,0.554705545,2.794502694,1.079455403
+sd1.5_normal_295.jpg,"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",long-shot,HDR lighting,anime style,2.520123245,0.496732445,2.880053469,0.885608617
+xl2.2_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.837774272,0.636359272,3.969519749,0.539587164
+sd1.5_lowcorr_109.jpg,"photograph of beautiful landscape, baroque style",,,baroque style,3.756916035,1.083402033,3.720100101,1.054525458
+AttnGAN_normal_149.jpg,"a plasticine model of a goblin raider, HDR lighting",HDR lighting,,,0.792278167,0.506241108,1.56824891,1.571595243
+xl2.2_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,3.613766055,0.424919691,3.572230948,0.340805983
+glide_normal_047.jpg,stalin tapdancing on stage,,,,1.49383774,0.267439768,0.265637574,0.468348897
+DALLE2_normal_165.jpg,"a female hand holding a red fresh apple, long-shot",long-shot,,,2.837204233,0.691200208,2.864560271,0.642546252
+xl2.2_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,3.531316317,0.495127609,2.820363609,0.600809989
+sd1.5_highcorr_036.jpg,gnome warfare at walmart,,,,2.701232452,0.388189715,1.996643532,0.848162574
+sd1.5_lowstep_048.jpg,scottish highlands at dawn,,,,3.316649193,0.842205713,3.336157521,0.638051125
+xl2.2_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,3.059933495,0.406633929,3.421504833,0.484643365
+sd1.5_highcorr_259.jpg,"a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting",hyper detail,HDR lighting,,1.228794173,0.545846525,2.324587432,1.108179262
+sd1.5_lowcorr_134.jpg,"a biomechanical orchid heart fusion, close-up",close-up,,,3.00308113,0.845032166,2.71292186,1.050939945
+sd1.5_highcorr_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.722527122,0.667997494,1.621793163,0.668996225
+midjourney_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.713294017,0.252976573,3.375908012,0.881169833
+xl2.2_normal_090.jpg,"little girl with a mushroom hat, anime style",,,anime style,3.188291344,0.656075444,3.665354297,0.279499099
+AttnGAN_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,0.835015157,0.253986757,0.931603649,0.663803839
+DALLE2_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,2.7089479,0.762192787,1.54386854,1.111350073
+sd1.5_normal_245.jpg,"fullbody portrait of half - fox woman with fox ears, top view, HDR lighting",top view,HDR lighting,,2.867071995,0.515134314,2.268627069,0.999776212
+midjourney_lowstep_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.224915104,1.12764683,3.112865772,0.770640884
+sd1.5_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.574642925,0.657907623,2.566500608,0.518613262
+sd1.5_lowcorr_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.524062705,0.659239873,3.469961038,0.638353867
+xl2.2_normal_043.jpg,a frog wearing police cap,,,,3.038537814,0.808497686,3.626710307,0.867953799
+sd1.5_lowstep_025.jpg,a still of breaking bad,,,,3.00308113,0.777013979,2.283154863,1.560686507
+sd1.5_lowstep_130.jpg,"photography of a happy blonde girl , warm color",warm color,,,3.108253189,0.584948577,3.562117535,0.526503699
+sd1.5_highcorr_134.jpg,"a biomechanical orchid heart fusion, close-up",close-up,,,2.96825071,1.201532224,2.78310259,0.861442985
+sd1.5_normal_224.jpg,"lovers being pulled apart across space and time, warm color, close-up",warm color,close-up,,2.996365552,0.466039685,1.472090597,0.594005905
+midjourney_normal_010.jpg,face shot of a woman,,,,4.172725551,0.769329252,4.286204297,0.549834454
+midjourney_lowstep_048.jpg,scottish highlands at dawn,,,,1.713269529,0.623011002,2.486006301,1.05307304
+sd1.5_lowcorr_048.jpg,scottish highlands at dawn,,,,3.572719808,0.605618532,3.455708742,0.836237302
+sd1.5_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,2.546528083,1.049419824,2.828703007,0.942818741
+DALLE2_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.757389397,0.552756488,2.475299774,0.559521531
+sd1.5_lowcorr_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,2.625770283,0.46352709,2.557728222,0.925736259
+AttnGAN_normal_184.jpg,"professional studio logo for robot artists, close-up, baroque style",close-up,,baroque style,0.712802152,0.324312882,1.321226762,1.325963262
+midjourney_normal_002.jpg,man lost in space,,,,3.912443678,0.2383012,3.609476773,0.425648521
+midjourney_normal_269.jpg,"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",warm color,hyper detail,baroque style,4.145497254,0.704938876,1.573439091,0.88823139
+midjourney_normal_105.jpg,"a 2 d guitarist character design, anime style",,,anime style,3.830080588,0.74148655,3.94578118,0.776964725
+midjourney_lowstep_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.349724191,0.466765879,1.722892891,0.816023003
+glide_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,0.905232817,0.589974552,1.244551289,0.299826924
+sd1.5_highcorr_284.jpg,"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",top view,soft lighting,baroque style,3.041723666,1.132024565,3.311978472,0.552273736
+sd1.5_highcorr_295.jpg,"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",long-shot,HDR lighting,anime style,3.373697126,0.59252096,3.153270423,0.886623351
+sd1.5_lowstep_220.jpg,"sparkling heart blue mana tree inside a marble, warm color, top view",warm color,top view,,2.90305168,0.699357871,3.214232789,0.721112522
+sd1.5_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.46452189,0.509300923,2.389907299,0.405857172
+sd1.5_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,3.008458905,0.27758835,3.10133505,0.613138271
+DALLE2_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.316649193,0.792363184,3.348349994,0.959123723
+midjourney_normal_160.jpg,"cute soul ghost in infinity mirror room, warm color",warm color,,,3.14151795,1.038160048,3.167161119,0.865856698
+glide_normal_250.jpg,"a dramatic photo of a mountain made of layered cake, long-shot, blurred detail",long-shot,blurred detail,,1.327820967,0.34364727,1.769822062,0.970221802
+sd1.5_highcorr_069.jpg,"synthwave astronaut tabby cat, baroque style",,,baroque style,2.869848764,0.730790855,3.239106761,0.692906121
+DALLE2_normal_056.jpg,survival in a winter forest,,,,3.124885569,0.877463741,2.666882993,1.012379564
+sd1.5_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.320012924,0.803239303,1.788774497,0.689856201
+sd1.5_lowcorr_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,3.374371279,1.006049033,2.390413502,0.421096661
+midjourney_lowstep_053.jpg,castle from howl's sticker,,,,1.696019687,0.87769098,2.841551967,0.632415009
+sd1.5_highcorr_054.jpg,beautiful white fluffy cat,,,,3.27751397,0.478592522,3.82051208,0.389598097
+glide_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.293266536,0.471957485,0.692100914,0.839354916
+sd1.5_lowstep_095.jpg,"moon sea with stars and galaxies, anime style",,,anime style,3.145505394,0.757041718,3.080115584,0.815425236
+xl2.2_normal_026.jpg,a painting of a eclipse,,,,2.938008313,0.867315489,3.4459796,0.414911994
+xl2.2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.785504238,0.732482928,3.42150843,0.619728709
+sd1.5_lowcorr_038.jpg,christmas at kelly family,,,,3.727351438,0.303214847,3.695110932,0.677353447
+midjourney_normal_186.jpg,"a portrait of girl alchemist in blue dress, blurred detail, sci-fi style",blurred detail,,sci-fi style,4.158106201,0.182142467,3.580006984,0.866692414
+midjourney_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.541752783,0.722994669,3.066730889,0.944390611
+midjourney_lowstep_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.231255627,0.563412826,3.410425033,0.605335419
+sd1.5_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,2.687865421,0.290862527,2.479686745,0.58435777
+AttnGAN_normal_195.jpg,"unique epic pink space elf knight adventurer, long-shot, anime style",long-shot,,anime style,1.16308973,0.664967772,0.605043529,0.255005611
+glide_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,1.948511424,0.481397747,1.599528985,0.554946006
+DALLE2_normal_235.jpg,"steampunk squid inside a glass jar buried in sand, cold color, HDR lighting",cold color,HDR lighting,,2.874527714,0.34594864,3.043538165,0.579517485
+DALLE2_normal_264.jpg,"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",warm color,close-up,baroque style,2.592649388,1.039266337,3.167161119,1.031497914
+DALLE2_normal_023.jpg,king kong on fighting,,,,2.679260682,0.619951524,2.403045646,0.900579927
+sd1.5_lowstep_045.jpg,superman punches the pope,,,,2.418144251,0.600207823,2.787496228,0.958706981
+sd1.5_lowstep_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.490797944,0.855612096,2.732709062,1.381894283
+DALLE2_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.505259558,0.873800794,3.180285613,0.687353059
+midjourney_lowstep_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,2.532470662,0.718097356,2.395499044,0.440262611
+midjourney_normal_099.jpg,"brain floating out of a portrait, baroque style",,,baroque style,3.510122043,0.399517644,3.235946058,0.764939553
+sd1.5_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.210551263,0.347661639,3.112865772,0.532267172
+midjourney_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.727351438,0.548720487,3.3417077,0.596346055
+sd1.5_lowstep_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,2.875399859,1.0679301,2.943352484,1.246660021
+sd1.5_lowcorr_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,3.252116811,1.167819683,3.057832635,1.319926117
+sd1.5_normal_007.jpg,a cat doing karaoke,,,,3.419625599,0.438529777,3.001128296,0.551710795
+xl2.2_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,3.058356047,0.581916613,3.285648044,0.44801724
+sd1.5_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,3.062007692,0.688503851,3.080096813,0.958341747
+xl2.2_normal_139.jpg,"digital painting of a lake at sunset, HDR lighting",HDR lighting,,,3.089166137,0.445107788,3.425191569,0.676576705
+midjourney_normal_264.jpg,"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",warm color,close-up,baroque style,3.033265998,0.358525554,3.429200187,0.449728694
+midjourney_normal_057.jpg,sartre hugging a sad alien,,,,4.143844218,0.404732706,3.726316663,0.605461695
+glide_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,0.649658335,0.384263359,0.507503744,0.331505594
+glide_normal_269.jpg,"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",warm color,hyper detail,baroque style,0.929924681,0.276353745,0.617082776,0.395704582
+AttnGAN_normal_029.jpg,legendary river of slugs,,,,0.747278376,0.747544955,0.530505137,0.639145334
+DALLE2_normal_045.jpg,superman punches the pope,,,,2.209149982,0.685703915,3.809111975,0.671474416
+sd1.5_lowstep_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.687102292,0.478992916,2.817302903,0.58992336
+sd1.5_highcorr_146.jpg,"cute fluffy lion cheetah hybrid mixed, blurred detail",blurred detail,,,2.717645898,0.602335551,3.202040316,0.693034816
+AttnGAN_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,1.168900836,0.799221234,0.810884549,0.697284312
+DALLE2_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.80733647,0.40600933,1.933414643,0.811384761
+sd1.5_highcorr_050.jpg,logo design of a full moon,,,,2.632073999,0.914094703,1.775520954,1.167082385
+midjourney_normal_066.jpg,"a pizza with chocolate on it, sci-fi style",,,sci-fi style,3.561501185,0.754337926,3.381448298,1.004987076
+AttnGAN_normal_045.jpg,superman punches the pope,,,,1.252358797,0.630744468,0.325327435,0.533822636
+xl2.2_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.610752151,0.697232294,2.888958056,0.914331912
+sd1.5_lowcorr_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.474845943,1.025894557,2.784549692,0.710307937
+sd1.5_normal_246.jpg,"alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting",elevation view,soft lighting,,2.646335983,0.882855901,2.616801603,0.898544371
+midjourney_lowstep_063.jpg,"overwatch small hut building, abstract style",,,abstract style,2.610261314,0.70406541,2.960067189,0.584609742
+sd1.5_normal_256.jpg,"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",blurred detail,soft lighting,,1.825871285,0.406784071,2.736797804,1.150747542
+DALLE2_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,3.304929808,0.856104313,3.059123051,0.574435956
+AttnGAN_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,0.269225899,0.675057729,0.38908069,0.543379109
+sd1.5_highcorr_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.788955814,0.773983212,2.251027408,1.087482857
+DALLE2_normal_239.jpg,"a small grassland nestled in the hollow of a tree, elevation view, long-shot",elevation view,long-shot,,3.43455948,0.293180299,2.045152119,0.855262535
+DALLE2_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,1.619473192,0.837949082,1.87306074,1.423172588
+sd1.5_highcorr_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,0.621134369,0.284509809,1.702366115,1.271379617
+sd1.5_lowcorr_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,1.860824639,0.555100191,2.429909143,1.057197034
+sd1.5_highcorr_229.jpg,"a heavily bloodied horrified pretty young woman, warm color, hyper detail",warm color,hyper detail,,3.365299544,0.657345464,3.429200187,0.607995139
+midjourney_normal_085.jpg,"grumpy minions sitting in a bar, anime style",,,anime style,4.039711731,0.897644529,2.924247568,1.186098851
+midjourney_normal_156.jpg,"an adventure party resting in a tavern, blurred detail",blurred detail,,,3.324474137,0.792160381,3.654274032,0.395306435
+DALLE2_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.401488261,0.709113958,3.547644548,0.949342644
+sd1.5_normal_025.jpg,a still of breaking bad,,,,2.86026573,0.646840626,3.263002682,0.563582887
+midjourney_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,4.039666506,0.963442358,3.641108818,0.347551586
+sd1.5_lowstep_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.727389608,0.646926037,3.73689006,0.576633026
+AttnGAN_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,1.012573225,0.600545307,0.876413908,0.739243317
+sd1.5_lowstep_114.jpg,"donut glazed with white chocolate, baroque style",,,baroque style,3.421003889,0.449611039,3.683010044,0.479935145
+sd1.5_highcorr_125.jpg,"a upright walking cute giraffe toy, long-shot",long-shot,,,3.135881857,0.580749825,2.939051921,0.735574925
+AttnGAN_normal_023.jpg,king kong on fighting,,,,0.949159982,0.506836937,0.422156431,0.363652825
+sd1.5_highcorr_144.jpg,"pendant of a silver starfish necklace, close-up",close-up,,,3.123820601,0.660922095,3.703773546,0.565504714
+sd1.5_highcorr_264.jpg,"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",warm color,close-up,baroque style,3.159767378,0.53868266,2.860651067,0.868524504
+sd1.5_normal_015.jpg,santa claus on drugs,,,,2.675811291,0.69621607,2.706378634,1.015146095
+midjourney_normal_030.jpg,brand logo fruit company,,,,2.433989441,0.536688873,2.988713021,0.704842281
+DALLE2_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,2.657997659,0.824010943,3.001128296,1.614171826
+glide_normal_059.jpg,barak obama as master chief,,,,0.635396352,0.176931204,0.288039227,0.211923591
+DALLE2_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.628129896,0.875404836,2.36794927,0.813282345
+xl2.2_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.80733647,1.083840651,2.901806096,0.768019716
+xl2.2_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.658567698,0.486573661,3.671553148,0.875172777
+sd1.5_lowstep_089.jpg,"a crocodile in a new york sewer, baroque style",,,baroque style,2.630872609,0.689422857,3.033904884,0.78539895
+AttnGAN_normal_030.jpg,brand logo fruit company,,,,1.014269206,0.559228261,0.605682672,0.678309106
+AttnGAN_normal_276.jpg,"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",top view,close-up,sci-fi style,0.333282167,1.012071377,0.530505137,0.782302106
+sd1.5_lowcorr_156.jpg,"an adventure party resting in a tavern, blurred detail",blurred detail,,,2.792237956,0.570244225,2.851195987,0.92702345
+sd1.5_lowcorr_086.jpg,"a very drunk person named aaron, sci-fi style",,,sci-fi style,2.874527714,0.679680279,2.116910203,0.50741751
+xl2.2_normal_284.jpg,"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",top view,soft lighting,baroque style,3.464427243,0.373479574,3.075619946,0.801164926
+sd1.5_lowcorr_031.jpg,black mickey mouse skull,,,,2.426325581,0.736445946,1.916465803,1.581185354
+sd1.5_normal_090.jpg,"little girl with a mushroom hat, anime style",,,anime style,3.162256259,0.33223573,3.268206767,0.951977448
+AttnGAN_normal_084.jpg,"sheep that looks like broccoli, baroque style",,,baroque style,0.875752826,0.43518024,0.541980536,0.574117147
+midjourney_lowstep_170.jpg,"portrait of butterflies swarming flowers, warm color",warm color,,,2.160207491,0.639222736,2.640552565,0.684971387
+AttnGAN_normal_185.jpg,"die cut sticker of chibi cute golf player , long-shot, anime style",long-shot,,anime style,0.794277489,0.300310956,0.775754404,0.7212959
+glide_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.461647503,0.595324829,1.389857248,1.102855681
+xl2.2_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,3.30015455,0.235737977,2.740407521,0.595617653
+midjourney_lowstep_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.407636041,0.774947742,3.114500264,0.451408875
+AttnGAN_normal_044.jpg,male warrior silver armor,,,,1.106599613,0.524232798,0.553112625,0.466850533
+DALLE2_normal_064.jpg,"monsters playing board games, baroque style",,,baroque style,2.545997226,0.420468896,3.169153524,0.4860513
+sd1.5_lowcorr_165.jpg,"a female hand holding a red fresh apple, long-shot",long-shot,,,2.166977719,0.905516817,2.087696228,0.77152498
+DALLE2_normal_025.jpg,a still of breaking bad,,,,3.089166137,0.716777786,2.545756544,0.847135566
+sd1.5_highcorr_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.380391978,0.552474867,2.844239553,0.861828786
+midjourney_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.781706499,0.390710651,3.52538037,0.497385914
+sd1.5_lowcorr_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.851759102,0.819932129,3.351167422,0.514653534
+DALLE2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.359435142,0.432799213,1.763328481,1.503791291
+glide_normal_080.jpg,"painted portrait of goblin man, anime style",,,anime style,1.012573225,0.62023562,1.745318022,1.014279127
+sd1.5_highcorr_109.jpg,"photograph of beautiful landscape, baroque style",,,baroque style,3.359435142,0.475345828,3.665354297,0.449410182
+midjourney_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.727517958,0.18079734,3.285944521,0.79068756
+sd1.5_lowstep_055.jpg,a small ocean full of life,,,,3.108253189,0.953067966,3.167161119,1.166571625
+sd1.5_normal_260.jpg,"mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style",warm color,top view,anime style,3.507430325,0.492638253,2.469404785,0.743415554
+AttnGAN_normal_048.jpg,scottish highlands at dawn,,,,0.735230234,0.326858888,0.519696217,0.534904966
+midjourney_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,4.162747096,0.794430273,3.718564611,0.481717094
+xl2.2_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.643063777,0.570203449,3.224603247,0.765005376
+DALLE2_normal_010.jpg,face shot of a woman,,,,2.841733922,0.448757939,3.159306031,1.317152981
+sd1.5_lowstep_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.195617381,0.426949656,2.678331145,0.537606169
+sd1.5_normal_027.jpg,the large cresting waves,,,,1.678769845,0.674854537,2.379342601,0.963561553
+midjourney_lowstep_007.jpg,a cat doing karaoke,,,,2.821971923,0.621457002,3.679897602,0.461713348
+sd1.5_lowcorr_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.530578941,0.649965296,2.251027408,1.049773444
+AttnGAN_normal_270.jpg,"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",cold color,blurred detail,anime style,0.875752826,0.420010054,0.864811115,0.630528357
+sd1.5_normal_140.jpg,"cute great old ones sitting in a bar, warm color",warm color,,,2.671047584,0.420442844,3.262068577,0.465174541
+AttnGAN_normal_025.jpg,a still of breaking bad,,,,1.086342024,0.384291365,0.456645128,0.664614654
+xl2.2_normal_045.jpg,superman punches the pope,,,,2.954193289,0.421191192,2.577900713,1.163017846
+midjourney_lowstep_010.jpg,face shot of a woman,,,,3.066652656,0.426446392,3.592509994,0.774877561
+sd1.5_normal_038.jpg,christmas at kelly family,,,,2.523592728,0.729275144,3.696383698,0.499744673
+DALLE2_normal_007.jpg,a cat doing karaoke,,,,1.910721781,0.574075394,3.167161119,1.011091307
+sd1.5_lowcorr_285.jpg,"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",top view,HDR lighting,anime style,1.877457019,0.457369622,2.245596149,0.759898991
+sd1.5_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.490003257,0.797304639,3.374870467,0.58025695
+DALLE2_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.041723666,0.892926011,2.917022056,0.776004298
+xl2.2_normal_190.jpg,"delicious peanut butter donut with glazing , warm color, anime style",warm color,,anime style,3.645251835,0.627092043,3.197097634,0.78340086
+midjourney_normal_042.jpg,a man jumping off a cliff,,,,4.076497886,0.641375104,3.137840023,0.916460342
+glide_normal_014.jpg,a small leopard gecko,,,,1.943986542,0.554337473,2.851195987,0.883144202
+AttnGAN_normal_256.jpg,"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",blurred detail,soft lighting,,0.792278167,0.533205615,0.690390841,0.314609835
+glide_normal_105.jpg,"a 2 d guitarist character design, anime style",,,anime style,1.012573225,0.740208205,1.245039896,1.394164653
