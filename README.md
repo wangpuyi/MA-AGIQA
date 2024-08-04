@@ -12,46 +12,31 @@ This repository is the official PyTorch implementation of [MA-AGIQA:Large Multi-
 ![image.png](src/framework.png)
 
 ## Requirements 
-Our experiments are based on two conda environment. One for [Semantic Feature Extraction](#semantic-feature-extraction) and another for [Train and Test](#train-and-test).
-```shell 
-git clone https://github.com/Q-Future/Q-Align.git
-cd Q-Align
-pip install -e .
-```
-```shell 
-git clone https://github.com/wangpuyi/MA-AGIQA.git
-cd MA-AGIQA
-pip install -r requirements.txt
-```
+You can use your exsiting conda environment.
+
+If you want to create an new environment, please refer to [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2#install) and follow their installation instruction.
 
 ## Usage
+To use our code, firstly you should extract fine-grained semantic features. After that, you can run the train or test steps.
+Here, I use AGIQA-3k as an example. You can easily change to your own datasets with slightly changes to the config files.
 ### Semantic Feature Extraction
-We use official mPLUG-Owl2 to extract semantic features. The feature extraction codes are based on [Q-Align](https://github.com/Q-Future/Q-Align), great thanks to them!
+We use official mPLUG-Owl2 to extract semantic features. The feature extraction codes are based on [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2), great thanks to them!
 
-First, download and transfer root to Q-Align (You should download their repository as said in [Requirements](#requirements).)
+You can get semantic feature by
 ```shell 
-cd Q-Align
-```
-then 
-- put json files containing information of training data to `Q-Align/playground/data/test_jsons` like `Q-Align/playground/data/test_jsons/AGIQA_3k.json`.
-- put `getFeature.py` like `Q-Align/q_align/evaluate/getFeature.py`.
-
-You can find them under `q_align` file in this repository and get semantic feature by
-```shell 
-python "q_align/evaluate/getFeature.py"
+python getFeature.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 ```
 if you have error when connect to Hugging Face, we recommand you use
 ```shell 
-HF_ENDPOINT=https://hf-mirror.com python "q_align/evaluate/getFeature.py"
+HF_ENDPOINT=https://hf-mirror.com python getFeature.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 ```
 ### Train and Test
-Download and transfer root to MA-AGIQA. If you've download this repository, just implement the "cd" code.
-```shell 
-cd MA-AGIQA
-```
+Train and test procedure are integrated in the main.py file. The process will run test step when training is done. 
+
+If you only want to run test step, please set "epoch" in yaml file to 0.
 Train and Test
 ```shell 
-python train.py
+python main.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 ```
 ## Performance
 ![image.png](src/sota.png)
@@ -63,7 +48,7 @@ You could download the checkpoints (10 epochs) through Google Drive.
 
 ## TODO 
 - [x] release the checkpoints
-- [ ] simplify codes for friendly usage
+- [x] simplify codes for friendly usage
 
 ## Citation
 If you find our code or model useful for your research, please cite:
