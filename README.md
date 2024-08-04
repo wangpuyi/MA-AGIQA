@@ -64,4 +64,4 @@ If you find our code or model useful for your research, please cite:
 ```
 
 ## Acknowledgement
-Part of our code are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [Q-Align](https://github.com/Q-Future/Q-Align). Thanks for their awesome work!
+Part of our code are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2). Thanks for their awesome work!
