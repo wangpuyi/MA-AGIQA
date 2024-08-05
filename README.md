@@ -42,7 +42,7 @@ python main.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 ![image.png](src/sota.png)
 
 ## Model Checkpoints
-You could download the checkpoints (10 epochs) through Google Drive.
+You could download the checkpoints (30 epochs) through Google Drive.
 - AGIQA-3k [Pre-trained](https://drive.google.com/file/d/1xIH7172GMRtY2lzIu2JClVdOB6_oSMX7/view?usp=drive_link)
 - AIGCQA-20k [Pre-trained](https://drive.google.com/file/d/1nKVcmBw-K9nS4tplZhMwHySpyy8ToAzK/view?usp=sharing)
 
@@ -64,4 +64,4 @@ If you find our code or model useful for your research, please cite:
 ```
 
 ## Acknowledgement
-Part of our code are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2). Thanks for their awesome work!
+Part of our codes are based on [MANIQA](https://github.com/IIGROUP/MANIQA) and [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2). Thanks for their awesome work!
