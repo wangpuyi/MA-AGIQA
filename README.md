@@ -28,7 +28,7 @@ Here, I use AGIQA-3k as an example. You can easily change to your own datasets w
 ### Semantic Feature Extraction
 We use official mPLUG-Owl2 to extract semantic features. The feature extraction codes are based on [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2), great thanks to them!
 
-You can get semantic feature by
+You can get semantic feature by ( you should run for `question_type` 1 and 2)
 ```shell 
 python getFeature.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 ```
