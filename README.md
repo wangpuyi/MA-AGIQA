@@ -16,6 +16,12 @@ You can use your exsiting conda environment.
 
 If you want to create an new environment, please refer to [mPLUG-Owl2](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2#install) and follow their installation instruction.
 
+After that, you need
+```shell 
+conda activate mplug_owl2
+pip install omegaconf
+```
+
 ## Usage
 To use our code, firstly you should extract fine-grained semantic features. After that, you can run the train or test steps.
 Here, I use AGIQA-3k as an example. You can easily change to your own datasets with slightly changes to the config files.
