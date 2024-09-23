@@ -19,7 +19,7 @@ If you want to create an new environment, please refer to [mPLUG-Owl2](https://g
 After that, you need
 ```shell 
 conda activate mplug_owl2
-pip install omegaconf
+pip install omegaconf, opencv-python
 ```
 
 ## Usage
