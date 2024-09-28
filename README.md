@@ -49,8 +49,8 @@ python main.py --config configs/AGIQA_3k/MA_AGIQA.yaml
 
 ## Model Checkpoints
 You could download the checkpoints (30 epochs) through Google Drive.
-- AGIQA-3k [Pre-trained](https://drive.google.com/file/d/1xIH7172GMRtY2lzIu2JClVdOB6_oSMX7/view?usp=drive_link)
-- AIGCQA-20k [Pre-trained](https://drive.google.com/file/d/1nKVcmBw-K9nS4tplZhMwHySpyy8ToAzK/view?usp=sharing)
+- AGIQA-3k [Pre-trained](https://drive.google.com/file/d/1YT9Fryok-ozYPIvT1V3gEnEF-Ij3UxPp/view?usp=sharing)
+ <!-- - AIGCQA-20k [Pre-trained](https://drive.google.com/file/d/1nKVcmBw-K9nS4tplZhMwHySpyy8ToAzK/view?usp=sharing) -->
 
 ## TODO 
 - [x] release the checkpoints
