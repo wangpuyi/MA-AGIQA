@@ -2,6 +2,7 @@ import os
 import torch
 import numpy as np
 from PIL import Image
+import cv2
 import torch.nn.functional as F
 
 
@@ -31,8 +32,11 @@ class AIGCgeneral(torch.utils.data.Dataset):
     
     def __getitem__(self, idx):
         d_img_name = self.data_dict['d_img_list'][idx]
-        d_img = Image.open(os.path.join(self.dis_path, d_img_name)).convert("RGB")
-        d_img = d_img.resize((224, 224), Image.BICUBIC)
+        d_img = cv2.imread(os.path.join(self.dis_path, d_img_name), cv2.IMREAD_COLOR)
+        d_img = cv2.resize(d_img, (224, 224), interpolation=cv2.INTER_CUBIC)
+        d_img = cv2.cvtColor(d_img, cv2.COLOR_BGR2RGB)
+        # d_img = Image.open(os.path.join(self.dis_path, d_img_name)).convert("RGB")
+        # d_img = d_img.resize((224, 224), Image.BICUBIC)
         d_img = np.array(d_img).astype('float32') / 255
         d_img = np.transpose(d_img, (2, 0, 1))
         score = self.data_dict['score_list'][idx]
