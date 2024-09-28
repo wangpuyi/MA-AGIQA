@@ -11,6 +11,7 @@ from timm.models.vision_transformer import Block
 from torch import nn
 from einops import rearrange
 from models.swin import SwinTransformer
+from models.transformer import TransformerEncoderLayer_GA, TransformerEncoderLayer
 
 
 class TABlock(nn.Module):
@@ -113,6 +114,7 @@ class MA_AGIQA(nn.Module):
             nn.Linear(embed_dim // 2, num_outputs),
             nn.Sigmoid()
         )
+
         self.fc39_784 = nn.Sequential(
             nn.Linear(39, 392),
             nn.ReLU(),
@@ -120,6 +122,7 @@ class MA_AGIQA(nn.Module):
             nn.Linear(392, 784),
             nn.Sigmoid()
         )
+        self.encoder_layer = TransformerEncoderLayer_GA(d_model=784, nhead=8, dim_feedforward=2048, dropout=0.1)
         self.fc_output = nn.Sequential(
             nn.Linear(784, 392),
             nn.ReLU(),
@@ -132,20 +135,24 @@ class MA_AGIQA(nn.Module):
         self.fc4096_784_b = nn.Linear(4096, 784)
         self.quality = self.quality_regression(784*3, 128, 1)
 
-        # MA-AGIQA
-        self.fc4096_784 = nn.Sequential(
+        # self-attention
+        self.encoder_layer = TransformerEncoderLayer(d_model=784, nhead=8, dim_feedforward=2048, dropout=0.1)
+        self.fc4096_784_a2 = nn.Sequential(
             nn.Linear(4096, 784),
             nn.ReLU(),
             nn.Dropout(drop),
         )
-        self.fc4096_784 = nn.Sequential( 
+        self.fc4096_784_b2 = nn.Sequential( 
             nn.Linear(4096, 784),
             nn.ReLU(),
             nn.Dropout(drop),
         )
         self.fc784x3_1 = self.quality_regression(784*3, 128, 1)
 
+        #MoE
         self.fc784_784 = nn.Linear(784, 784)
+        self.fc4096_1024_a = nn.Linear(4096, 1024)
+        self.fc4096_1024_b = nn.Linear(4096, 1024)
         self.gating = nn.Linear(784*3, 3)
         self.output_fc = nn.Linear(784, 1)
 
@@ -214,8 +221,8 @@ class MA_AGIQA(nn.Module):
         query2 = kwargs['tensor2'].type(torch.float32)
         
         key = self.fc784_784(key) #torch.Size([batch, feature])
-        query1 = self.fc4096_784(query1.squeeze(1)) #torch.Size([batch, feature])
-        query2 = self.fc4096_784(query2.squeeze(1))
+        query1 = self.fc4096_784_a2(query1.squeeze(1)) #torch.Size([batch, feature])
+        query2 = self.fc4096_784_b2(query2.squeeze(1))
         gating_weights = self.gating(torch.cat([query1, query2, key], dim=1)) #torch.Size([batch, 1, 3])
         expert_outputs = torch.stack([query1, query2, key], dim=1) #torch.Size([batch, 3, feature])
         mixed_experts = torch.bmm(gating_weights.unsqueeze(1), expert_outputs).squeeze(1) #torch.Size([batch, feature])
